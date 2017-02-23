@@ -53,9 +53,17 @@
 			<h2>Business Hours</h2>
 			
 			<p>241 W 51st <br />
-				New York, NY 10019
-				Tel: (212) 226-4565
-				info@nanjingny.com
+				New York, NY 10019<br />
+				Tel: (212) 226-4565<br />
+				info@nanjingny.com<br />
+
+				<ul id="socialmedia">
+					<li><a href="https://www.facebook.com/Nanjing-Restaurant-1299107400183130/">
+						<i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+					</a></li>
+					<li><a href=""><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a></li>
+					<li><a href=""><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
+				</ul>
 			</p>
 		</div>
 	</div>

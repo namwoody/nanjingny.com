@@ -41,6 +41,7 @@
 	    	  <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/jquery-ui.css">
 
 	    <!-- end jquery ui  -->
+	    <script src="https://use.fontawesome.com/84fbfe7df4.js"></script>
 
 	</head>
 	<body <?php body_class(); ?> id="body">
