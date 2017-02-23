@@ -51,7 +51,9 @@
 		<div class="col-md-6 text-center">
 			<img src="<?php bloginfo('template_directory'); ?>/images/dragon.png " alt="dragon" width="90px;">
 			<h2>Business Hours</h2>
-			
+			<p>SUNDAY - THURSDAY : 11:00 AM - 10:30 PM<br />
+				FRIDAY-SATURDAY : 11:00 AM - 11:30 PM
+			</p>		
 			<p>241 W 51st <br />
 				New York, NY 10019<br />
 				Tel: (212) 226-4565<br />
