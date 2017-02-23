@@ -35,7 +35,10 @@
 				<li><a href="#tabs-10">Rice &amp; Noodles</a></li>
 				<li><a href="#tabs-11">Rice Specialties</a></li>
 				<li><a href="#tabs-12">Bread</a></li>
-				<li><a href=""><button class="btn btn-warning">Pdf Menu</button></a></li>
+				<li>
+					<a href="https://drive.google.com/file/d/0B5hzdVaK6XX1Y0RZOTM5UVN5cGc/view?usp=sharing" target="_new">
+					<button class="btn btn-warning">Pdf Menu</button></a>
+				</li>
 
 			  </ul>
   			<div id="tabs-1">
@@ -74,13 +77,13 @@
   <!-- Start Appetizers -->
   <div id="tabs-2">
   <h2>Appetizers - Vegetarian</h2>
- <span class="menu-item">Chilli Paneer (Dry) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8</span>
+ <span class="menu-item">Chilli Paneer (Dry)  8</span>
 <i>Cubes of Cheese Sautéed with fresh chili &amp; onions in light soya sauce.</i>
-<span class="menu-item">Crispy Lotus (Dry) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8</span>
+<span class="menu-item">Crispy Lotus (Dry) 8</span>
 <i>Crispy lotus stems stir fried with onions in a honey sauce.</i>
-<span class="menu-item">Tofu Delight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8</span>
+<span class="menu-item">Tofu Delight  8</span>
 <i>Crispy tofu glazed with sweet chili sauce.</i>
-<span class="menu-item">Vegetarian Manchuria (Dry) . . . . . . . . . . . . . . . . . . . . . . . . . . . 8</span>
+<span class="menu-item">Vegetarian Manchuria (Dry) 8</span>
 <i>Golden fried vegetable dumplings tossed with onions in a chili garlic sauce</i>	
 <span class="menu-item">Cauliflower Manchurian (Dry) . . . . . . . . . . . . . . . . . . . . . . . . . 8</span>
 <i>Crispy Bettered Cauliflower tossed with onions &amp; scallions in a chili sauce.</i>
