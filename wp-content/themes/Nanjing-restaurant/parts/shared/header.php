@@ -12,7 +12,7 @@
 			
 			</a>
 			</div>
-			<div class="col-md-8 text-right">
+			<div class="col-md-8 col-xs-12 text-right">
 				<nav id="navigation">
 					<ul>
 						<?php wp_list_pages('title_li&'); ?>
