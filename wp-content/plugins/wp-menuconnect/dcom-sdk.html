@@ -1,0 +1,23 @@
+<script src="https://menuconnect.delivery.com/sdk/dcom-sdk.js"></script>
+<script id="dcom-sdk-container">
+DCOM.init({
+	'merchant_id'   : '{{DCOM_MERCHANT_ID}}',
+	'merchant_type' : '{{DCOM_MERCHANT_TYPE}}',
+	'authorize'     : 'guest',
+	'theme'         : {
+		'primary_color'            : '#3C5988',
+		'secondary_color'          : '#6B88AA',
+		'primary_cta_text'         : '#FFFFFF',
+		'secondary_cta_text'       : '#FFFFFF',
+		'primary_cta_background'   : '#E86A15',
+		'body_background'          : '#eeeeee',
+		'body_text'                : '#333333',
+		'body_link_color'          : '#3C5988',
+		'body_secondary_text'      : '#333333',
+		'secondary_cta_background' : '#6B88AA',
+		'dcom_logo_color'          : '#3C5988'
+	}
+});
+
+DCOM.embed('MenuConnect');
+</script>
