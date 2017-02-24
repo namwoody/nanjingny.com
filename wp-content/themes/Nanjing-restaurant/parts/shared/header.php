@@ -16,7 +16,6 @@
 				<nav id="navigation">
 					<ul>
 						<?php wp_list_pages('title_li&'); ?>
-					<button class="btn btn-warning">ORDER ONLINE</button>
 					</ul>
 
 				</nav>
