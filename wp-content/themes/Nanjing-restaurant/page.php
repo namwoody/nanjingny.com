@@ -17,7 +17,7 @@
 <?php Starkers_Utilities::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>
 
 <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
-<h2 class="text-center"><img src="<?php bloginfo('template_directory'); ?>/images/dragon.png " alt="dragon" width="40px;"><?php the_title(); ?></h2>
+<h2 class="text-center"> <img src="<?php bloginfo('template_directory'); ?>/images/dragon.png " alt="dragon" width="24px;">&nbsp;  <?php the_title(); ?></h2>
 <?php the_content(); ?>
 <?php comments_template( '', true ); ?>
 <?php endwhile; ?>
