@@ -18,7 +18,7 @@
 	<div class="row" id="home-content">
 		<div class="col-md-6" id="about">
 			<h2 class="text-center">About us</h2>
-			<p>Nanjing Come &amp; experience New York's Best Asian Fusion spot Serving the best of Chinese, Thai &amp; Mughlai cuisine. At Nanjing we incorporate innovative Asian Fusion fare in our dishes &amp; our Chefs work hard to invigorate your taste buds with the freshest ingredients with a burst of flavors &amp; the opulent ambience through which we ensure that our guests have a gratifying experience. Check out our menu and visit us for an unforgetable Asian dining experience.</p>
+			<p>Come &amp; experience New York's Best Asian Fusion spot Serving the best of Chinese, Thai &amp; Mughlai cuisine. At Nanjing we incorporate innovative Asian Fusion fare in our dishes &amp; our Chefs work hard to invigorate your taste buds with the freshest ingredients with a burst of flavors &amp; the opulent ambience through which we ensure that our guests have a gratifying experience. Check out our menu and visit us for an unforgetable Asian dining experience.</p>
 		</div>
 		<div class="col-md-6" id="home-image">
 			<img src="<?php bloginfo('template_directory'); ?>/images/lamb.jpg" alt="lamb chop" width="540px" height="400px">
