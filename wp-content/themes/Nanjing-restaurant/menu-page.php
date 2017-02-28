@@ -387,6 +387,7 @@
 
 <div id="tabs-10">
   <h2>Rice &amp; Noodles</h2>
+  <span class="menu-item">Vegetables 12 Chicken 14 Egg 14 Shrimp 15</span>
 	<span class="menu-item">Nanjing Fried Rice</span>
 	 <i>Basmati rice stir fried to perfection with fresh vegetables, and your Style (Szechwan style, Chili Garlic).</i>
 <span class="menu-item">Young Chow Fried Rice</span>
