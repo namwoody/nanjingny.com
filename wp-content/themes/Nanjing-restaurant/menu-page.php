@@ -198,7 +198,7 @@
 <!-- end vegetables -->
 <!-- Chicken  -->
 	<div id="tabs-5">
-		<div class="col-md-6">
+		
 				<h2>Chicken 18</h2>
 			<span class="menu-item">Hakka Chili Chicken</span>
 			<i>Boneless, prepared with fresh herbs (dry or with light gravy)</i>
@@ -250,12 +250,12 @@
 			 <i>Diced Chicken With Jalapeno Peppers.</i>
 			<span class="menu-item">Chicken Keema Matter</span>
 			 <i>Minced Chicken In A Traditional Indian Curry.</i>
-			 </div>
+			
 
 	</div>
 <!-- Lamb & Goat -->
 	<div id="tabs-6">
-	 <div class="col-md-6">
+	 
 		<h2>Lamb &amp; Goat 23</h2>
 			<span class="menu-item">Lamb Or Goat Masala </span>
 			<i>Lamb Marinated In Yogurt, Mirch And Lemon Juice.</i>
@@ -271,7 +271,7 @@
 			<i>Lamb Cooked With Onions And Herbs Over A Slow Fire.</i>
 			<span class="menu-item">Lamb Shank 25 </span>
 			<i>Fresh Spinach cooked in red wine. </i>
-		</div>
+	 
 
 	</div>
 <!-- Lamb & Goat -->
@@ -295,6 +295,38 @@
 
 
 <!-- Lamb & Duck -->
+
+<!-- Seafood -->
+ <div id="tabs-8">
+	<h2>Seafood</h2>
+		<span class="menu-item">Lobster Lobster </span>
+		<i>sauteed with vegetables in your choice of sauce: hot garlic, black bean, black pepper sauce or Szechwan style</i>
+		<span class="menu-item">Lobster Hong Kong Style </span>
+		<i>Lobster taken out of its shell cooked with peppers, onions, water chestnut, celery, dry chilies &amp;
+		cashews in traditional Hong Kong Style.
+		Thai Lobster Curry (Red, Green, Yellow or Panang) Traditional Thai
+		preparation with bamboo shoots, & coconut milk in your choice of curry
+		Shrimp Sautéed with vegetables in your choice of sauce: hot garlic,
+		black bean, black pepper, Sweet & sour , Basil Ginger or Szechwan style
+		Thai Shrimp Curry (Red, Green, Yellow or Panang) Hot curry with shrimp
+		and coconut milk with your choice of sauce
+		Chili Fish Fresh filet of fish cooked with onions and fresh green chilli in our
+		red chili sauce
+		Filet of Tilapia Served with your choice of chili, hot garlic, Szechwan or ginger sauce
+		Red Snapper Filet Served with your choice of hot garlic, chili,
+		Szechwan or ginger sauce
+		Crispy Whole Red Snapper Your choice of basil ginger, hot garlic,
+		black bean Szechwan or ginger sauce
+		Fish/Shrimp Cokked in Goan Curry . . . . . . . . . . . . . . . . . . . . . . . 22
+		Lobster Cokked in Goan Curry . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+	
+ </div>
+
+
+
+<!-- end seafood -->
+
+
 
 
 
