@@ -22,7 +22,6 @@
 		  <div id="tabs">
 
 			  <ul>
-			    <li><a href="#tabs-1">Lunch Menu</a></li>
 			    <li><a href="#tabs-2">Appetizers</a></li>
 			    <li><a href="#tabs-3">Soups &amp; Salad</a></li>
 			    <li><a href="#tabs-4">Vegetables</a></li>
@@ -44,39 +43,7 @@
 
 
 		  
-  		<div id="tabs-1" >
-  				<h2>Lunch</h2>
-				  <span> MON-FRI 11am-3pm</span>
-				    <p>Served with choice of Veg/Chicken Soup
-				(Hot or Sour, Sweet Corn or Tomato Shorba)<br />
-				Choice of One Entree with White Rice or Brown Rice</p>
-				   <h2>Entree</h2>
-				   <h3>Vegetables</h3>
-			<p>
-				<ul>
-				<li>Chili Paneer </li>
-				<li>Nanjing Vegetables</li>
-				<li>Vegetable Manchurian </li>
-				<li>Sweet &amp; Sour Vegetables</li>
-				<li>Eggplant (Hot Garlic or Szechwan sauce)</li>
-				<li>Chili Cauliflower</li>
-				<li>Thai Vegetable Curry (red, green, yellow or panang)</li>
-				<li>Sarson Ka Saag </li>
-				<li>Alu Palak </li>
-				<li>Alu Matar/Mushroom Matar</li>
-				<li>Alu Gobi/Gobi Masala</li>
-				<li>Baingan Bartha</li>
-				<li>Chana Masala </li>
-				<li>Bhindi Masala</li>
-				<li>Malai Kofta</li>
-				<li>Kadai Paneer Masala</li>
-				<li>Palak Paneer</li>
-				<li>Dal Makhani</li>
-				<li>Yellow Dal</li>
-				<li>Vegetable Jalfrazi</li>
-				</ul>
-			</p>
-  		</div>
+  		
   <!-- Start Appetizers -->
   <div id="tabs-2" class="row">
     
@@ -134,6 +101,56 @@
 
   </div>
 
+
+<!-- Soups & salad -->
+  <div id="tabs-3" class="row">
+    <div id="appetizers" class="col-md-6">
+		<h2>Salad 8</h2>
+		<span class="menu-item">(Add Chicken 2 Shrimp 3)</span>
+		<span class="menu-item">Nanjing Salad</span>
+		<i>Mixed greens, tomatoes and cucumber with fresh cottage cheese.</i>
+		<span class="menu-item">Papaya Salad</span>
+		<i>Julienned raw pappaya chopped with basil, chili and roasted peanuts
+		with tamarind sauce.</i>
+		<span class="menu-item">Warm Toffu Salad</span>
+		<i>Mix greens, warm toffu, walnuts, tomatoes &amp; warm mushrooms.</i>
+		<span class="menu-item">Grilled Shrimp Salad</span>
+		<i>Refresher of lettuce, pepper &amp; onions in spicy lemon dressing.</i>
+		<span class="menu-item">Raita 4 </span>
+		<i>Cucumber &amp; Onion Bundi Tomato &amp; Mint Pineapple Mix fruit</i>
+		
+	</div>
+
+	<div id="appetizers" class="col-md-6">
+      <h2>Soups 7</h2>
+		<span class="menu-item">Sweet Corn</span>
+		<i>Homemade corn soup prepared with choice of chicken or vegetable.</i>
+		<span class="menu-item">Hot &amp; Sour</span>
+		<i>Combination of mushrooms and tofu with choice of chicken or vegetable.</i>
+		<span class="menu-item">Manchow</span>
+		<i>A traditional spicy lemon flavored soup with mushrooms and coriander.</i>
+		<span class="menu-item">Volcanic Tom Yum</span>
+		<i>Thai soup with vegetables, mushrooms, lemongrass and lime juice
+		with choice of chicken or shrimp.</i>
+		<span class="menu-item">Wonton Soup</span>
+		<i>A clear soup served with your choice of chicken or vegetable.</i>
+		<span class="menu-item">Tom Kha</span>
+		<i>Coconut milk based soup with mushrooms, galangal : veg/chicken/shrimp.</i>
+		<span class="menu-item">Noodle Soup</span>
+		<i>A clear noodle soup served with choice of chicken or vegetable.</i>
+		<span class="menu-item">Spinach and Tofu Soup:</span>
+		<i>A delicious clear vegetable broth with fresh spinach and tofu, lightly flavored with</i>
+		<span class="menu-item">Tomato Shorba: </span>
+		<i>Cream of tomato soup</i>
+		<span class="menu-item">Mulligatawny: </span>
+		<i>Traditional Curry Flavored Lentil Soup</i>
+		<span class="menu-item">Seafood Shorba: 12</span>
+		<i>Seafood In A Lightly Spiced Coconut Based </i>
+
+
+       
+	</div>
+</div>
 
 
 <!-- Vegetables -->
