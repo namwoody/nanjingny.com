@@ -43,7 +43,7 @@
 
 
 
-	<div id="container">		  
+		  
   		<div id="tabs-1" >
   				<h2>Lunch</h2>
 				  <span> MON-FRI 11am-3pm</span>
@@ -53,36 +53,36 @@
 				   <h2>Entree</h2>
 				   <h3>Vegetables</h3>
 			<p>
-			<ul>
-			<li>Chili Paneer </li>
-			<li>Nanjing Vegetables</li>
-			<li>Vegetable Manchurian </li>
-			<li>Sweet &amp; Sour Vegetables</li>
-			<li>Eggplant (Hot Garlic or Szechwan sauce)</li>
-			<li>Chili Cauliflower</li>
-			<li>Thai Vegetable Curry (red, green, yellow or panang)</li>
-			<li>Sarson Ka Saag </li>
-			<li>Alu Palak </li>
-			<li>Alu Matar/Mushroom Matar</li>
-			<li>Alu Gobi/Gobi Masala</li>
-			<li>Baingan Bartha</li>
-			<li>Chana Masala </li>
-			<li>Bhindi Masala</li>
-			<li>Malai Kofta</li>
-			<li>Kadai Paneer Masala</li>
-			<li>Palak Paneer</li>
-			<li>Dal Makhani</li>
-			<li>Yellow Dal</li>
-			<li>Vegetable Jalfrazi</li>
-			</ul>
+				<ul>
+				<li>Chili Paneer </li>
+				<li>Nanjing Vegetables</li>
+				<li>Vegetable Manchurian </li>
+				<li>Sweet &amp; Sour Vegetables</li>
+				<li>Eggplant (Hot Garlic or Szechwan sauce)</li>
+				<li>Chili Cauliflower</li>
+				<li>Thai Vegetable Curry (red, green, yellow or panang)</li>
+				<li>Sarson Ka Saag </li>
+				<li>Alu Palak </li>
+				<li>Alu Matar/Mushroom Matar</li>
+				<li>Alu Gobi/Gobi Masala</li>
+				<li>Baingan Bartha</li>
+				<li>Chana Masala </li>
+				<li>Bhindi Masala</li>
+				<li>Malai Kofta</li>
+				<li>Kadai Paneer Masala</li>
+				<li>Palak Paneer</li>
+				<li>Dal Makhani</li>
+				<li>Yellow Dal</li>
+				<li>Vegetable Jalfrazi</li>
+				</ul>
 			</p>
   		</div>
   <!-- Start Appetizers -->
   <div id="tabs-2" class="row">
     
     <div id="appetizers" class="col-md-6">
-		  <h2>Appetizers - Vegetarian</h2>
-		 <span class="menu-item">Chilli Paneer (Dry)  8</span>
+		<h2>Appetizers - Vegetarian</h2>
+		<span class="menu-item">Chilli Paneer (Dry)  8</span>
 		<i>Cubes of Cheese Sautéed with fresh chili &amp; onions in light soya sauce.</i>
 		<span class="menu-item">Crispy Lotus (Dry) 8</span>
 		<i>Crispy lotus stems stir fried with onions in a honey sauce.</i>
@@ -108,8 +108,6 @@
 		<i>Lentil and spinach cooked together and served with mint &amp; tamarind sauce.</i>
 		<span class="menu-item">Nanjing Combo Platter Vegetables  22</span>
 		<i>Spring rolls, veg. Manchurian, Panner Pakora &amp; Samosa.</i>
-
-
 	</div>
 
 	<div id="appetizers" class="col-md-6">
@@ -138,64 +136,66 @@
 
 
 
+<!-- Vegetables -->
 
-<div id="tab-4">
-	<div  class="col-md-6">
-	 <h2>Vegetables 14</h2>
-		<span class="menu-item">Chili Paneer</span>
-		<i>Cubes of cottage cheese with fr esh chili &amp; onions in light sauce</i>
-		<span class="menu-item">Nanjing Vegetables</span>
-		 <i>Mixed vegetables in your choice of sauce: black bean, Szechwan, hot garlic or green chili</i>
-		<span class="menu-item">Vegetable Manchurian</span>
-		<i>Golden fried battered vegetables koftas in hot Manchurian sauce.</i>
-		<span class="menu-item">Braised Chili Tofu</span>
-		<i>Cubes of tofu sauteed with vegetables in chili sauce.</i>
-		<span class="menu-item">Sweet &amp; Sour Vegetables</span>
-		<i>Mixed vegetables in sweet sour sauce with pineapple chunks and lychee.</i>
-		<span class="menu-item">Eggplant (Hot Garlic or Szechwan sauce)</span>
-		<i>Slices of eggplant cooked in hot chili garlic or Szechwan sauce.</i>
-		<span class="menu-item">Chili Cauliflower</span>
-		 <i>Stir fried cauliflower in hot chili sauce.</i>
-		<span class="menu-item">Okra Szechwan</span>
-		 <i>Crispy Okra with garlic, chilis &amp; scallions in Szechwan sauce.</i>
-		<span class="menu-item">Thai Vegetable Curry (red, green, yellow or panang)</span>
-		<i>Traditional prepared spicy vegetable curry with bamboo shoots and coconut milk.</i>
-		<span class="menu-item">Sarson Ka Saag </span>
-		<i>Mustard Greens Sauteed With Special Spices.</i>
-		<span class="menu-item">Achari Aloo </span>
-		<i>Potatoes Fried With Wild Seeds.</i>
-		<span class="menu-item">Jeera Aloo </span>
-		<i>Potatoes And Cumin Seeds Sauteed With Herbs And Spices.</i>
-		<span class="menu-item">Alu Palak </span>
-		<i>Potatoes in mild ceamy spinach gravy.</i>
-		<span class="menu-item">Alu Matar/Mushroom Matar</span>
-		<i>Potato or mushroom with green peas in mildly spiced tomato sauce.</i>
-		<span class="menu-item">Alu Gobi/Gobi Masala</span>
-		<i>Enticingly fragrant blend of spices cooked in spiced tomato sauce.</i>
-		<span class="menu-item">Alu Baigan </span>
-		<i>Diced eggplant with potatoes in Special Spices.</i>
-		<span class="menu-item">Baingan Bartha</span>
-		<i>Roasted eggplant cooked in onion &amp; tomato gravy with Indian spices.</i>
-		<span class="menu-item">Chana Masala </span>
-		<i>Cooked in ginger garlic paste with green chili &amp; chana masala.</i>
-		<span class="menu-item">Bhindi Masala </span>
-		<i>Fresh okras sauteed with onion, tomato, ginger, garlic, spices.</i>
-		<span class="menu-item">Malai Kofta</span>
-		<i>Cottage Cheese ball &amp; potatoes in a rich sauce of cashew nuts and saffron.</i>
-		<span class="menu-item">Kadai Paneer Masala </span>
-		<i>Cottage cheese cooked in a creamy tomato sauce.</i>
-		<span class="menu-item">Palak Paneer </span>
-		<i>Cubes of cottage cheese with creamy spinach in spices.</i>
-		<span class="menu-item">Dal Makhani </span>
-		<i>Black Lentils Slowly Simmered With Cream.</i>
-		<span class="menu-item">Yellow Dal </span>
-		<i>Yellow lentils with cumin and herbs $10 Add Palak $4</i>
-		<span class="menu-item">Vegetable Jalfrazi / Navratan Korma</span>
-		<i>Fresh mixed vegetables cooked in sour, sweet &amp;
-		Spicy sauce / Mixed vegetables, nuts and cream sauce (dairy)</i>
-      </div>
+	<div id="tab-4">
+		<div  class="col-md-6">
+		 <h2>Vegetables 14</h2>
+			<span class="menu-item">Chili Paneer</span>
+			<i>Cubes of cottage cheese with fr esh chili &amp; onions in light sauce</i>
+			<span class="menu-item">Nanjing Vegetables</span>
+			 <i>Mixed vegetables in your choice of sauce: black bean, Szechwan, hot garlic or green chili</i>
+			<span class="menu-item">Vegetable Manchurian</span>
+			<i>Golden fried battered vegetables koftas in hot Manchurian sauce.</i>
+			<span class="menu-item">Braised Chili Tofu</span>
+			<i>Cubes of tofu sauteed with vegetables in chili sauce.</i>
+			<span class="menu-item">Sweet &amp; Sour Vegetables</span>
+			<i>Mixed vegetables in sweet sour sauce with pineapple chunks and lychee.</i>
+			<span class="menu-item">Eggplant (Hot Garlic or Szechwan sauce)</span>
+			<i>Slices of eggplant cooked in hot chili garlic or Szechwan sauce.</i>
+			<span class="menu-item">Chili Cauliflower</span>
+			 <i>Stir fried cauliflower in hot chili sauce.</i>
+			<span class="menu-item">Okra Szechwan</span>
+			 <i>Crispy Okra with garlic, chilis &amp; scallions in Szechwan sauce.</i>
+			<span class="menu-item">Thai Vegetable Curry (red, green, yellow or panang)</span>
+			<i>Traditional prepared spicy vegetable curry with bamboo shoots and coconut milk.</i>
+			<span class="menu-item">Sarson Ka Saag </span>
+			<i>Mustard Greens Sauteed With Special Spices.</i>
+			<span class="menu-item">Achari Aloo </span>
+			<i>Potatoes Fried With Wild Seeds.</i>
+			<span class="menu-item">Jeera Aloo </span>
+			<i>Potatoes And Cumin Seeds Sauteed With Herbs And Spices.</i>
+			<span class="menu-item">Alu Palak </span>
+			<i>Potatoes in mild ceamy spinach gravy.</i>
+			<span class="menu-item">Alu Matar/Mushroom Matar</span>
+			<i>Potato or mushroom with green peas in mildly spiced tomato sauce.</i>
+			<span class="menu-item">Alu Gobi/Gobi Masala</span>
+			<i>Enticingly fragrant blend of spices cooked in spiced tomato sauce.</i>
+			<span class="menu-item">Alu Baigan </span>
+			<i>Diced eggplant with potatoes in Special Spices.</i>
+			<span class="menu-item">Baingan Bartha</span>
+			<i>Roasted eggplant cooked in onion &amp; tomato gravy with Indian spices.</i>
+			<span class="menu-item">Chana Masala </span>
+			<i>Cooked in ginger garlic paste with green chili &amp; chana masala.</i>
+			<span class="menu-item">Bhindi Masala </span>
+			<i>Fresh okras sauteed with onion, tomato, ginger, garlic, spices.</i>
+			<span class="menu-item">Malai Kofta</span>
+			<i>Cottage Cheese ball &amp; potatoes in a rich sauce of cashew nuts and saffron.</i>
+			<span class="menu-item">Kadai Paneer Masala </span>
+			<i>Cottage cheese cooked in a creamy tomato sauce.</i>
+			<span class="menu-item">Palak Paneer </span>
+			<i>Cubes of cottage cheese with creamy spinach in spices.</i>
+			<span class="menu-item">Dal Makhani </span>
+			<i>Black Lentils Slowly Simmered With Cream.</i>
+			<span class="menu-item">Yellow Dal </span>
+			<i>Yellow lentils with cumin and herbs $10 Add Palak $4</i>
+			<span class="menu-item">Vegetable Jalfrazi / Navratan Korma</span>
+			<i>Fresh mixed vegetables cooked in sour, sweet &amp;
+			Spicy sauce / Mixed vegetables, nuts and cream sauce (dairy)</i>
+	      </div>
 
-</div>
+	</div>
+<!-- end vegetables -->
 <!-- Chicken  -->
 	<div id="tab-5">
 		<div class="col-md-6">
@@ -272,6 +272,7 @@
 			<span class="menu-item">Lamb Shank 25 </span>
 			<i>Fresh Spinach cooked in red wine. </i>
 		</div>
+
 	</div>
 <!-- Lamb & Goat -->
 
@@ -280,18 +281,7 @@
 
 
 		
-	</div><!-- end ui tab -->
-
-
-
-</div>
-
-
-
-
-
-
-
+</div><!-- end ui tab -->
 
 
 
