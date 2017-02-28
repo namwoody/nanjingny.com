@@ -138,7 +138,7 @@
 
 <!-- Vegetables -->
 
-	<div id="tab-4">
+	<div id="tabs-4">
 		<div  class="col-md-6">
 		 <h2>Vegetables 14</h2>
 			<span class="menu-item">Chili Paneer</span>
@@ -197,7 +197,7 @@
 	</div>
 <!-- end vegetables -->
 <!-- Chicken  -->
-	<div id="tab-5">
+	<div id="tabs-5">
 		<div class="col-md-6">
 				<h2>Chicken 18</h2>
 			<span class="menu-item">Hakka Chili Chicken</span>
@@ -254,7 +254,7 @@
 
 	</div>
 <!-- Lamb & Goat -->
-	<div id="tab-6">
+	<div id="tabs-6">
 	 <div class="col-md-6">
 		<h2>Lamb &amp; Goat 23</h2>
 			<span class="menu-item">Lamb Or Goat Masala </span>
@@ -276,8 +276,8 @@
 	</div>
 <!-- Lamb & Goat -->
 <!-- Lamb & Duck -->
- <div id="tab-7">
- 
+ <div id="tabs-7">
+
  	<h2>Lamb &amp; Duck 25</h2>
 	<span class="menu-item">Lamb Or Goat</span>
 	<i>MasCrispy Duck in Choice of Sauce Black Bean, Black Pepper, Szechwan, chili Sauce or BBQ Sauce.</i>
