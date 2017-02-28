@@ -139,7 +139,8 @@
 
 
 </div>
-<div id="tab-3">
+<div id="tab-4">
+
 	 <h2>Vegetables 14</h2>
 		<span class="menu-item">Chili Paneer</span>
 		<i>Cubes of cottage cheese with fr esh chili &amp; onions in light sauce</i>
@@ -196,62 +197,80 @@
 
 </div>
 
-<div id="tab-4">
-	<h2>Chicken 18</h2>
-<span class="menu-item">Hakka Chili Chicken</span>
-<i>Boneless, prepared with fresh herbs (dry or with light gravy)</i>
-<span class="menu-item">Chicken in Black Bean Sauce</span>
-<i>Chicken with green peppers and onions in a mildly spiced black bean sauce.</i>
-<span class="menu-item">Chicken Manchurian </span>
-<i>Chicken dumplings sauteed in our Manchurian sauce.</i>
-<span class="menu-item">Sweet &amp; Sour </span>
-<i>Chicken Tender pieces of boneless chicken, green peppers
-and onions, lychees &amp; pineapple in a sweet and sour sauce.</i>
-<span class="menu-item">Szechwan Chicken</span>
- <i>Authentic preparation of chicken with chineese veg in a spicy Szechwan sauce.</i>
-<span class="menu-item">Black Pepper Chicken</span>
-<i>Stir fried diced chicken pieces sauteed in black pepper sauce.</i>
-<span class="menu-item">General Tsao's Chicken </span>
-<i>Wok fried chicken sauteed with hot peppers in our chef's special spicy BBQ saucewith broccoli.</i>
-<span class="menu-item">Chicken with Broccoli</span>
-<i>Boneless pieces of chicken and broccoli cooked in soy sauce.</i>
-<span class="menu-item">Chicken Hong Kong Style</span>
-<i>Chicken cooked with a spicy blend of green peppers, onions &amp; cashews.</i>
-<span class="menu-item">Basil Ginger Chicken</span>
-<i>Boneless pieces of chicken breast stir fried in brown ginger and basil sauce.</i>
-<span class="menu-item">Coriander Garlic Chicken</span>
-<i>Wok fried chicken with onions and green peppers in garlic coriander sauce.</i>
-<span class="menu-item">Sesame Chicken </span>
-<i>Wok fried sliced chicken with diced onions and peppers,sweet sauce topped with sesame seeds.</i>
-<span class="menu-item">Thai Chicken Curry (choice of red, green, yellow or panang)</span>
-<i>Traditional prepared chicken curry with bamboo shoots and coconut milk
-in your choice of sauce.</i>
-<span class="menu-item">Chicken Curry </span>
-<i>Chicken tenders cooked in onion-tomato based curry made of ginger, garlic, red chilies &amp; cardomoms and garnished with fresh coriander.</i>
-<span class="menu-item">Chicken Tikka Massala </span>
-<i>Boneless, marinated in yogurt, herbs &amp; spices,
-grilled in tonadoor and simmered in tangy sauce fresh tomatoes,
-finished with light cream.</i>
-<span class="menu-item">Mughlai Chicken</span>
- <i>Old fashioned Mughlai style chicken cooked with rich white gravy prepared with onions, almonds, cashew nuts and Kashmiri chilies.</i>
-<span class="menu-item">Chicken Saagwala</span> 
-<i>Boneless seasoned thigh meat cooked in fresh creamed spinach.</i>
-<span class="menu-item">Chicken Kadai </span>
-<i>Tender pieces of chicken coocked in fresh herbs and spices tossed with the whole red chilli in kadai.</i>
-<span class="menu-item">Butter Chicken </span>
-<i>Tender juicy chicken coocked in tomato base and finished with cream &amp; butter</i>
-<span class="menu-item">Chicken Vindaloo </span>
-<i>Chicken Vindaloo diced chicken in a spicy vinaigrette curry.</i>
-<span class="menu-item">Chicken Kali Mirch</span>
- <i>Chicken With Ground Peppercorns.</i>
-<span class="menu-item">Chicken Jalapeno</span>
- <i>Diced Chicken With Jalapeno Peppers.</i>
-<span class="menu-item">Chicken Keema Matter</span>
- <i>Minced Chicken In A Traditional Indian Curry.</i>
+<div id="tab-5">
+			<h2>Chicken 18</h2>
+		<span class="menu-item">Hakka Chili Chicken</span>
+		<i>Boneless, prepared with fresh herbs (dry or with light gravy)</i>
+		<span class="menu-item">Chicken in Black Bean Sauce</span>
+		<i>Chicken with green peppers and onions in a mildly spiced black bean sauce.</i>
+		<span class="menu-item">Chicken Manchurian </span>
+		<i>Chicken dumplings sauteed in our Manchurian sauce.</i>
+		<span class="menu-item">Sweet &amp; Sour </span>
+		<i>Chicken Tender pieces of boneless chicken, green peppers
+		and onions, lychees &amp; pineapple in a sweet and sour sauce.</i>
+		<span class="menu-item">Szechwan Chicken</span>
+		 <i>Authentic preparation of chicken with chineese veg in a spicy Szechwan sauce.</i>
+		<span class="menu-item">Black Pepper Chicken</span>
+		<i>Stir fried diced chicken pieces sauteed in black pepper sauce.</i>
+		<span class="menu-item">General Tsao's Chicken </span>
+		<i>Wok fried chicken sauteed with hot peppers in our chef's special spicy BBQ saucewith broccoli.</i>
+		<span class="menu-item">Chicken with Broccoli</span>
+		<i>Boneless pieces of chicken and broccoli cooked in soy sauce.</i>
+		<span class="menu-item">Chicken Hong Kong Style</span>
+		<i>Chicken cooked with a spicy blend of green peppers, onions &amp; cashews.</i>
+		<span class="menu-item">Basil Ginger Chicken</span>
+		<i>Boneless pieces of chicken breast stir fried in brown ginger and basil sauce.</i>
+		<span class="menu-item">Coriander Garlic Chicken</span>
+		<i>Wok fried chicken with onions and green peppers in garlic coriander sauce.</i>
+		<span class="menu-item">Sesame Chicken </span>
+		<i>Wok fried sliced chicken with diced onions and peppers,sweet sauce topped with sesame seeds.</i>
+		<span class="menu-item">Thai Chicken Curry (choice of red, green, yellow or panang)</span>
+		<i>Traditional prepared chicken curry with bamboo shoots and coconut milk
+		in your choice of sauce.</i>
+		<span class="menu-item">Chicken Curry </span>
+		<i>Chicken tenders cooked in onion-tomato based curry made of ginger, garlic, red chilies &amp; cardomoms and garnished with fresh coriander.</i>
+		<span class="menu-item">Chicken Tikka Massala </span>
+		<i>Boneless, marinated in yogurt, herbs &amp; spices,
+		grilled in tonadoor and simmered in tangy sauce fresh tomatoes,
+		finished with light cream.</i>
+		<span class="menu-item">Mughlai Chicken</span>
+		 <i>Old fashioned Mughlai style chicken cooked with rich white gravy prepared with onions, almonds, cashew nuts and Kashmiri chilies.</i>
+		<span class="menu-item">Chicken Saagwala</span> 
+		<i>Boneless seasoned thigh meat cooked in fresh creamed spinach.</i>
+		<span class="menu-item">Chicken Kadai </span>
+		<i>Tender pieces of chicken coocked in fresh herbs and spices tossed with the whole red chilli in kadai.</i>
+		<span class="menu-item">Butter Chicken </span>
+		<i>Tender juicy chicken coocked in tomato base and finished with cream &amp; butter</i>
+		<span class="menu-item">Chicken Vindaloo </span>
+		<i>Chicken Vindaloo diced chicken in a spicy vinaigrette curry.</i>
+		<span class="menu-item">Chicken Kali Mirch</span>
+		 <i>Chicken With Ground Peppercorns.</i>
+		<span class="menu-item">Chicken Jalapeno</span>
+		 <i>Diced Chicken With Jalapeno Peppers.</i>
+		<span class="menu-item">Chicken Keema Matter</span>
+		 <i>Minced Chicken In A Traditional Indian Curry.</i>
 
 </div>
+<!-- Lamb & Goat -->
+	<div id="tab-6">
+		<h2>Lamb &amp; Goat 23</h2>
+			<span class="menu-item">Lamb Or Goat Masala </span>
+			<i>Lamb Marinated In Yogurt, Mirch And Lemon Juice.</i>
+			<span class="menu-item">Lamb Or Goat Vindaloo </span>
+			<i>spicy Delicacy prepared with crushed peppers and dry kashmiri Chilies and Cooked with wine-vinegar.</i>
+			<span class="menu-item">Lamb Or Goat Korma </span>
+			<i>In A Spiced Vinaigrette Curry.</i>
+			<span class="menu-item">Lamb Or Saag Gosht </span>
+			<i> In A Mild Mughlai Curry.</i>
+			<span class="menu-item">Lamb Or Goat Achari </span>
+			<i>Spiced Goat Or Lamb Simmered With Onion Seeds</i>
+			<span class="menu-item">Lamb Or Goat Rogan Josh</span>
+			<i>Lamb Cooked With Onions And Herbs Over A Slow Fire.</i>
+			<span class="menu-item">Lamb Shank 25 </span>
+			<i>Fresh Spinach cooked in red wine. </i>
 
-
+	</div>
+<!-- Lamb & Goat -->
 
 
 
