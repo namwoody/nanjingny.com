@@ -366,10 +366,79 @@
 
 
 <!-- end Tandoor -->
+<!-- Rice & Noodles -->
 
+<div id="tabs-10">
+  <h2>Rice &amp; Noodles</h2>
+	<span class="menu-item">Nanjing Fried Rice</span>
+	 <i>Basmati rice stir fried to perfection with fresh vegetables, and your Style (Szechwan style, Chili Garlic).</i>
+<span class="menu-item">Young Chow Fried Rice</span>
+<i> Combination of chicken, shrimp, egg and vegetables.</i>
+<span class="menu-item">Spicy Curry Fried Rice (Vegetable or Chicken)</span>
+<i> Fried rice onions, tomatoes, carrots, tofu, string beans &amp; basil in a light curry sauce.</i>
+<span class="menu-item">Thai Fried Rice (Vegetable or Chicken)</span>
+ <i>Authentic Thai fried rice with scallions, chili and basil.</i>
+<span class="menu-item">Pineapple Fried Rice (Vegetable or Chicken)</span>
+<i>Fried rice with vegetables or chicken, raisins, cashew nuts &amp; pineapple.</i>
+<span class="menu-item">Jasmine Rice/Brown rice 5</span>
+<span class="menu-item">Hakka Noodles (Vegetable or Chicken)</span>
+<i>Traditional Hakka style Chinese noodles prepared to your choice with soy sauce.</i>
+<span class="menu-item">Chili Garlic Noodles (Vegetable or Chicken)</span>
+<i>Stir fried chili noodles with fresh garlic</i>
+<span class="menu-item">Singapore Noodles (Chicken, Vegetable or Shrimp)</span>
+<i>Thin egg noodles stir fried to perfection Singaporean style)</i>
+<span class="menu-item">Pad Thai Noodles (Chicken, Vegetable or Shrimp)</span>
+<i>Flat rice noodles with veggies, tofu, bean sprouts &amp; ground peanut</i>
+<span class="menu-item">Triple Szechwan (chicken , vegetable or shrimp)</span>
+<i>Fried rice, noodles with cabbage sprouts, scallions, onion, pepper
+and schewan sauce.</i>
+</div>
 
+<!-- Rice & Noodles -->
+<!-- Rice Specialties -->
 
+<div id="tabs-11">
+	<h2>Rice Specialties</h2>
+<span class="menu-item">Plain Basmati Rice  7</span>
+<span class="menu-item">Jeera Rice  7 </span>
+<span class="menu-item">Kashmiri Pulao  7</span>
+<span class="menu-item">Vegetable Biryani  12</span>
+<span class="menu-item">Chicken Biryani 14</span>
+<span class="menu-item">Lamb Biryani  16</span>
+<span class="menu-item">Goat Biryani  16</span>
+<span class="menu-item">Shrimp Biryani  18</span>
+</div>
+<!-- Rice Specialties -->
 
+<!-- Bread -->
+
+<div id="tabs-12">
+	<h2>Bread</h2>
+<span class="menu-item">Nan 3</span>
+<i>Tandoor Baked Light Bread </i>
+<span class="menu-item">Garlic Nan 4</span>
+<i>White Flour Bread With Garlic </i>
+<span class="menu-item">Nanjing Nan 6</span>
+<i>Nan Prepared With Cashews And Raisins</i>
+<span class="menu-item">Paneer Or Onion Kulcha 5</span>
+ <i>With Onions And Cilantro Or Special Cheese </i>
+<span class="menu-item">Nanjing Special Cheese Kulcha  5 </span>
+<i>With Stuffed With Cottage Cheese And Mushroom</i>
+<span class="menu-item">Keema Naan Nan With Minced Lamb And Herbs 5</span>
+<span class="menu-item">Tandoori Roti 3</span>
+ <i>Baked Whole Wheat Flour Bread </i>
+<span class="menu-item">Plain Or Laccha Paratha 5</span>
+ <i>Whole Wheat Bread Baked In The Tandoor </i>
+<span class="menu-item">Gobhi Paratha 5</span>
+ <i>Whole Wheat Bread Stuffed With Cauliflower </i>
+<span class="menu-item">Aloo Paratha Whole 5</span>
+ <i>Wheat Bread Stuffed With Potatoes </i>
+<span class="menu-item">Pudina / Methi Paratha  5</span>
+<i>Oven Baked Bread With Mint Or Fenugreek Powder</i>
+<span class="menu-item">Poori 6</span>
+<i>Deep Fried Whole Wheat Puffed Bread  </i>
+</div>
+<!-- end bread -->
 
 		
 	</div><!-- end ui tab -->
