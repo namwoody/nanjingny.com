@@ -275,14 +275,33 @@
 
 	</div>
 <!-- Lamb & Goat -->
+<!-- Lamb & Duck -->
+ <div id="tab-7">
+ 
+ 	<h2>Lamb &amp; Duck 25</h2>
+	<span class="menu-item">Lamb Or Goat</span>
+	<i>MasCrispy Duck in Choice of Sauce Black Bean, Black Pepper, Szechwan, chili Sauce or BBQ Sauce.</i>
+	<span class="menu-item">Duck/Lamb in Thai Curry Sauce</span>
+	<i>Roasted sliced duck/Lamb in your choice of Thai curry sauce: yellow, green, red or panang.</i>
+	<span class="menu-item">Fried Chili Lamb </span>
+	<i>Sliced lamb sautéed with onions and fresh green chili.</i>
+	<span class="menu-item">Ginger Lamb </span>
+	<i>Stir fried lamb with green peppers and fresh ginger flavored sauce</i>
+	<span class="menu-item">Thai Lamb Curry (Red, Green, Yellow or Panang) </span>
+	Traditional prepared spicy lamb curry with bamboo shoots, coconut milk and spices.
 
+
+ </div>
+
+
+<!-- Lamb & Duck -->
 
 
 
 
 		
-</div><!-- end ui tab -->
-
+	</div><!-- end ui tab -->
+</div>
 
 
 
