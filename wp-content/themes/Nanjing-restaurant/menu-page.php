@@ -18,7 +18,6 @@
 
 
 	<div id="menu-content">
-		<div class="container">
 		
 		  <div id="tabs">
 
@@ -41,6 +40,10 @@
 				</li>
 
 			  </ul>
+
+
+
+	<div id="container">		  
   		<div id="tabs-1" >
   				<h2>Lunch</h2>
 				  <span> MON-FRI 11am-3pm</span>
@@ -75,9 +78,9 @@
 			</p>
   		</div>
   <!-- Start Appetizers -->
-  <div id="tabs-2">
+  <div id="tabs-2" class="row">
     
-    <div id="appetizers">
+    <div id="appetizers" class="col-md-6">
 		  <h2>Appetizers - Vegetarian</h2>
 		 <span class="menu-item">Chilli Paneer (Dry)  8</span>
 		<i>Cubes of Cheese Sautéed with fresh chili &amp; onions in light soya sauce.</i>
@@ -109,7 +112,7 @@
 
 	</div>
 
-	<div id="appetizers">
+	<div id="appetizers" class="col-md-6">
       <h2>Appetizers - Non - Vegetarian</h2>
        <span class="menu-item">Dumpling </span>
         <i>Steamed or fried (veg 7  Chicken 8  Shrimp 9)</i>
@@ -135,6 +138,13 @@
 
 
 
+</div>
+<div id="tab-3">
+	
+
+</div>
+
+
 
 
 
@@ -145,7 +155,7 @@
 	</div><!-- end ui tab -->
 
 
-	</div>
+
 </div>
 
 
