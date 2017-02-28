@@ -121,6 +121,9 @@ p.double-up-arrow {
 .menu-item {
 	display: block;
 	color: red;
+	font-size: 1.3em;
+	font-family: 'Aladin', cursive;
+
 }
 
 
@@ -129,7 +132,14 @@ p.double-up-arrow {
 	margin-right: 10px;
 }
 
+/* Menu */
+#appetizers {
+	float: left;
+	ma
+}
 
+
+/* End Menu*/
 
 
 

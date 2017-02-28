@@ -24,7 +24,7 @@
 			  <ul>
 			    <li><a href="#tabs-1">Lunch Menu</a></li>
 			    <li><a href="#tabs-2">Appetizers</a></li>
-			    
+			    <li><a href="#tabs-3">Soups &amp; Salad</a></li>
 			    <li><a href="#tabs-4">Vegetables</a></li>
 				<li><a href="#tabs-5">Chicken</a></li>
 				<li><a href="#tabs-6">Lamb &amp; Goat</a></li>
@@ -140,10 +140,116 @@
 
 </div>
 <div id="tab-3">
-	
+	 <h2>Vegetables 14</h2>
+		<span class="menu-item">Chili Paneer</span>
+		<i>Cubes of cottage cheese with fr esh chili &amp; onions in light sauce</i>
+		<span class="menu-item">Nanjing Vegetables</span>
+		 <i>Mixed vegetables in your choice of sauce: black bean, Szechwan, hot garlic or green chili</i>
+		<span class="menu-item">Vegetable Manchurian</span>
+		<i>Golden fried battered vegetables koftas in hot Manchurian sauce.</i>
+		<span class="menu-item">Braised Chili Tofu</span>
+		<i>Cubes of tofu sauteed with vegetables in chili sauce.</i>
+		<span class="menu-item">Sweet &amp; Sour Vegetables</span>
+		<i>Mixed vegetables in sweet sour sauce with pineapple chunks and lychee.</i>
+		<span class="menu-item">Eggplant (Hot Garlic or Szechwan sauce)</span>
+		<i>Slices of eggplant cooked in hot chili garlic or Szechwan sauce.</i>
+		<span class="menu-item">Chili Cauliflower</span>
+		 <i>Stir fried cauliflower in hot chili sauce.</i>
+		<span class="menu-item">Okra Szechwan</span>
+		 <i>Crispy Okra with garlic, chilis &amp; scallions in Szechwan sauce.</i>
+		<span class="menu-item">Thai Vegetable Curry (red, green, yellow or panang)</span>
+		<i>Traditional prepared spicy vegetable curry with bamboo shoots and coconut milk.</i>
+		<span class="menu-item">Sarson Ka Saag </span>
+		<i>Mustard Greens Sauteed With Special Spices.</i>
+		<span class="menu-item">Achari Aloo </span>
+		<i>Potatoes Fried With Wild Seeds.</i>
+		<span class="menu-item">Jeera Aloo </span>
+		<i>Potatoes And Cumin Seeds Sauteed With Herbs And Spices.</i>
+		<span class="menu-item">Alu Palak </span>
+		<i>Potatoes in mild ceamy spinach gravy.</i>
+		<span class="menu-item">Alu Matar/Mushroom Matar</span>
+		<i>Potato or mushroom with green peas in mildly spiced tomato sauce.</i>
+		<span class="menu-item">Alu Gobi/Gobi Masala</span>
+		<i>Enticingly fragrant blend of spices cooked in spiced tomato sauce.</i>
+		<span class="menu-item">Alu Baigan </span>
+		<i>Diced eggplant with potatoes in Special Spices.</i>
+		<span class="menu-item">Baingan Bartha</span>
+		<i>Roasted eggplant cooked in onion &amp; tomato gravy with Indian spices.</i>
+		<span class="menu-item">Chana Masala </span>
+		<i>Cooked in ginger garlic paste with green chili &amp; chana masala.</i>
+		<span class="menu-item">Bhindi Masala </span>
+		<i>Fresh okras sauteed with onion, tomato, ginger, garlic, spices.</i>
+		<span class="menu-item">Malai Kofta</span>
+		<i>Cottage Cheese ball &amp; potatoes in a rich sauce of cashew nuts and saffron.</i>
+		<span class="menu-item">Kadai Paneer Masala </span>
+		<i>Cottage cheese cooked in a creamy tomato sauce.</i>
+		<span class="menu-item">Palak Paneer </span>
+		<i>Cubes of cottage cheese with creamy spinach in spices.</i>
+		<span class="menu-item">Dal Makhani </span>
+		<i>Black Lentils Slowly Simmered With Cream.</i>
+		<span class="menu-item">Yellow Dal </span>
+		<i>Yellow lentils with cumin and herbs $10 Add Palak $4</i>
+		<span class="menu-item">Vegetable Jalfrazi / Navratan Korma</span>
+		<i>Fresh mixed vegetables cooked in sour, sweet &amp;
+		Spicy sauce / Mixed vegetables, nuts and cream sauce (dairy)</i>
+
 
 </div>
 
+<div id="tab-4">
+	<h2>Chicken 18</h2>
+<span class="menu-item">Hakka Chili Chicken</span>
+<i>Boneless, prepared with fresh herbs (dry or with light gravy)</i>
+<span class="menu-item">Chicken in Black Bean Sauce</span>
+<i>Chicken with green peppers and onions in a mildly spiced black bean sauce.</i>
+<span class="menu-item">Chicken Manchurian </span>
+<i>Chicken dumplings sauteed in our Manchurian sauce.</i>
+<span class="menu-item">Sweet &amp; Sour </span>
+<i>Chicken Tender pieces of boneless chicken, green peppers
+and onions, lychees &amp; pineapple in a sweet and sour sauce.</i>
+<span class="menu-item">Szechwan Chicken</span>
+ <i>Authentic preparation of chicken with chineese veg in a spicy Szechwan sauce.</i>
+<span class="menu-item">Black Pepper Chicken</span>
+<i>Stir fried diced chicken pieces sauteed in black pepper sauce.</i>
+<span class="menu-item">General Tsao's Chicken </span>
+<i>Wok fried chicken sauteed with hot peppers in our chef's special spicy BBQ saucewith broccoli.</i>
+<span class="menu-item">Chicken with Broccoli</span>
+<i>Boneless pieces of chicken and broccoli cooked in soy sauce.</i>
+<span class="menu-item">Chicken Hong Kong Style</span>
+<i>Chicken cooked with a spicy blend of green peppers, onions &amp; cashews.</i>
+<span class="menu-item">Basil Ginger Chicken</span>
+<i>Boneless pieces of chicken breast stir fried in brown ginger and basil sauce.</i>
+<span class="menu-item">Coriander Garlic Chicken</span>
+<i>Wok fried chicken with onions and green peppers in garlic coriander sauce.</i>
+<span class="menu-item">Sesame Chicken </span>
+<i>Wok fried sliced chicken with diced onions and peppers,sweet sauce topped with sesame seeds.</i>
+<span class="menu-item">Thai Chicken Curry (choice of red, green, yellow or panang)</span>
+<i>Traditional prepared chicken curry with bamboo shoots and coconut milk
+in your choice of sauce.</i>
+<span class="menu-item">Chicken Curry </span>
+<i>Chicken tenders cooked in onion-tomato based curry made of ginger, garlic, red chilies &amp; cardomoms and garnished with fresh coriander.</i>
+<span class="menu-item">Chicken Tikka Massala </span>
+<i>Boneless, marinated in yogurt, herbs &amp; spices,
+grilled in tonadoor and simmered in tangy sauce fresh tomatoes,
+finished with light cream.</i>
+<span class="menu-item">Mughlai Chicken</span>
+ <i>Old fashioned Mughlai style chicken cooked with rich white gravy prepared with onions, almonds, cashew nuts and Kashmiri chilies.</i>
+<span class="menu-item">Chicken Saagwala</span> 
+<i>Boneless seasoned thigh meat cooked in fresh creamed spinach.</i>
+<span class="menu-item">Chicken Kadai </span>
+<i>Tender pieces of chicken coocked in fresh herbs and spices tossed with the whole red chilli in kadai.</i>
+<span class="menu-item">Butter Chicken </span>
+<i>Tender juicy chicken coocked in tomato base and finished with cream &amp; butter</i>
+<span class="menu-item">Chicken Vindaloo </span>
+<i>Chicken Vindaloo diced chicken in a spicy vinaigrette curry.</i>
+<span class="menu-item">Chicken Kali Mirch</span>
+ <i>Chicken With Ground Peppercorns.</i>
+<span class="menu-item">Chicken Jalapeno</span>
+ <i>Diced Chicken With Jalapeno Peppers.</i>
+<span class="menu-item">Chicken Keema Matter</span>
+ <i>Minced Chicken In A Traditional Indian Curry.</i>
+
+</div>
 
 
 
