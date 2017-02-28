@@ -139,7 +139,6 @@
 <!-- Vegetables -->
 
 	<div id="tabs-4">
-		<div  class="col-md-6">
 		 <h2>Vegetables 14</h2>
 			<span class="menu-item">Chili Paneer</span>
 			<i>Cubes of cottage cheese with fr esh chili &amp; onions in light sauce</i>
@@ -192,7 +191,7 @@
 			<span class="menu-item">Vegetable Jalfrazi / Navratan Korma</span>
 			<i>Fresh mixed vegetables cooked in sour, sweet &amp;
 			Spicy sauce / Mixed vegetables, nuts and cream sauce (dairy)</i>
-	      </div>
+	     
 
 	</div>
 <!-- end vegetables -->
@@ -299,26 +298,27 @@
 <!-- Seafood -->
  <div id="tabs-8">
 	<h2>Seafood</h2>
+	<span>Fish 25  Shrimp 26 Lobster 30</span>
 		<span class="menu-item">Lobster Lobster </span>
 		<i>sauteed with vegetables in your choice of sauce: hot garlic, black bean, black pepper sauce or Szechwan style</i>
 		<span class="menu-item">Lobster Hong Kong Style </span>
-		<i>Lobster taken out of its shell cooked with peppers, onions, water chestnut, celery, dry chilies &amp;
-		cashews in traditional Hong Kong Style.
-		Thai Lobster Curry (Red, Green, Yellow or Panang) Traditional Thai
-		preparation with bamboo shoots, & coconut milk in your choice of curry
-		Shrimp Sautéed with vegetables in your choice of sauce: hot garlic,
-		black bean, black pepper, Sweet & sour , Basil Ginger or Szechwan style
-		Thai Shrimp Curry (Red, Green, Yellow or Panang) Hot curry with shrimp
-		and coconut milk with your choice of sauce
-		Chili Fish Fresh filet of fish cooked with onions and fresh green chilli in our
-		red chili sauce
-		Filet of Tilapia Served with your choice of chili, hot garlic, Szechwan or ginger sauce
-		Red Snapper Filet Served with your choice of hot garlic, chili,
-		Szechwan or ginger sauce
-		Crispy Whole Red Snapper Your choice of basil ginger, hot garlic,
-		black bean Szechwan or ginger sauce
-		Fish/Shrimp Cokked in Goan Curry . . . . . . . . . . . . . . . . . . . . . . . 22
-		Lobster Cokked in Goan Curry . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+		<i>Lobster taken out of its shell cooked with peppers, onions, water chestnut, celery, dry chilies &amp; cashews in traditional Hong Kong Style.
+		<span class="menu-item">Thai Lobster Curry (Red, Green, Yellow or Panang) </span>
+		<i>Traditional Thai preparation with bamboo shoots, &amp; coconut milk in your choice of curry</i>
+		<span class="menu-item">Shrimp </span>
+		<i>Sautéed with vegetables in your choice of sauce: hot garlic, black bean, black pepper, Sweet &amp; sour , Basil Ginger or Szechwan style</i>
+		<span class="menu-item">Thai Shrimp Curry (Red, Green, Yellow or Panang) </span>
+		<i>Hot curry with shrimp and coconut milk with your choice of sauce.</i>
+		<span class="menu-item">Chili Fish </span>
+		<i>Fresh filet of fish cooked with onions and fresh green chilli in our red chili sauce</i>
+		<span class="menu-item">Filet of Tilapia</span>
+		 <i>Served with your choice of chili, hot garlic, Szechwan or ginger sauce</i>
+		<span class="menu-item">Red Snapper </span>
+		<i>Filet Served with your choice of hot garlic, chili, Szechwan or ginger sauce.</i>
+		<span class="menu-item">Crispy Whole Red Snapper</span>
+		<i> Your choice of basil ginger, hot garlic,black bean Szechwan or ginger sauce</i>
+		<span class="menu-item">Fish/Shrimp Cokked in Goan Curry  22</span>
+		<span class="menu-item">Lobster Cokked in Goan Curry 28</span>
 	
  </div>
 
@@ -326,6 +326,46 @@
 
 <!-- end seafood -->
 
+
+<!-- Tandoor -->
+
+<div id="tabs-9">
+	<h2>Tandoor Se – Clay Oven Specialties</h2>
+	<span>Veg 14 Chicken 18 Lamb 20 Fish 21 Shrimp Appetizers - Non- Vegetarian 24 Lobster 30</span>
+		<span class="menu-item">Tandoori Achari Mushroom </span>
+		<i>Seasonal fresh mushrooms marinated with spiced yogurt and cooked in clay oven.</i>
+		<span class="menu-item">Paneer Tikka </span>
+		<i>Cottage Cheese, Green Peppers, Mushrooms and Onions Grilled Over Charcoal</i>
+		<span class="menu-item">Chicken Tikka </span>
+		<i>Boneless cubes marinated in ginger garlic paste, yogurt and
+		ground spices, skewered and cooked in the tandoor.</i>
+		<span class="menu-item">Tandoori Chicken </span>
+		<i>Juicy chicken breast and leg marinated in yogurt,red chilies, selected spices and cooked to perfection in a tandoor.</i>
+		<span class="menu-item">Malai Kebab</span>
+		 <i>Boneless Chicken cubes marinated with crushed peppers,sour cream and cooked in the pit oven.</i>
+		<span class="menu-item">Chicken Kaalimirch</span> 
+		<i>Boneless cubes marinated in ginger garlic paste,
+		yogurt and ground spices, skewered and cooked in the tandoor.</i>
+		
+		<span class="menu-item">Chicken Seekh Kebab </span>
+		<i>Minced Chicken Spiced And Rolled On A Skewer.</i>
+		<span class="menu-item">Lamb Kebab </span>
+		<i>Selected fine minced meat, exotic Indian spices, finished in
+		tandoor to melt in your mouth.</i>
+		<span class="menu-item">Tandoori Lamb Chops 24</span>
+		<i>Tender lamb chop marinated with ginger, pepper, yogurt, spices and
+		slow cooked in a tandoor</i>
+		<span class="menu-item">Nanjing Mix Grill  29</span>
+		<i>Platter with tandoori chicken, chicken tikka, malai kebab, jumbo shrimp, reshmi kabab
+		Tandoori Shrimp Jumbo prawns marinated in cream cheese,
+		akwain seeds and ground spices, cooked in tandoor.</i>
+		<span class="menu-item">Tandoori Lobster </span>
+		<i>Delicately marinated, cooked in Tandoor, served with
+		seasonal Tandoor roasted vegetables. Fish Tikka Fish Fillets.</i>
+</div>
+
+
+<!-- end Tandoor -->
 
 
 
