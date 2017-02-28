@@ -140,7 +140,7 @@
 
 </div>
 <div id="tab-4">
-
+	<div  class="col-md-6">
 	 <h2>Vegetables 14</h2>
 		<span class="menu-item">Chili Paneer</span>
 		<i>Cubes of cottage cheese with fr esh chili &amp; onions in light sauce</i>
@@ -193,11 +193,12 @@
 		<span class="menu-item">Vegetable Jalfrazi / Navratan Korma</span>
 		<i>Fresh mixed vegetables cooked in sour, sweet &amp;
 		Spicy sauce / Mixed vegetables, nuts and cream sauce (dairy)</i>
-
+      </div>
 
 </div>
 
 <div id="tab-5">
+	<div class="col-md-6">
 			<h2>Chicken 18</h2>
 		<span class="menu-item">Hakka Chili Chicken</span>
 		<i>Boneless, prepared with fresh herbs (dry or with light gravy)</i>
@@ -249,6 +250,7 @@
 		 <i>Diced Chicken With Jalapeno Peppers.</i>
 		<span class="menu-item">Chicken Keema Matter</span>
 		 <i>Minced Chicken In A Traditional Indian Curry.</i>
+		 </div>
 
 </div>
 <!-- Lamb & Goat -->
