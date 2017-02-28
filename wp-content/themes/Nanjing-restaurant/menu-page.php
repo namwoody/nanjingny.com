@@ -34,7 +34,7 @@
 				<li><a href="#tabs-11">Rice Specialties</a></li>
 				<li><a href="#tabs-12">Bread</a></li>
 				<li>
-					<a href="https://drive.google.com/file/d/0B5hzdVaK6XX1Y0RZOTM5UVN5cGc/view" target="_new">
+					<a href="#tabs-13">
 					<button class="btn btn-warning">Pdf Menu</button></a>
 				</li>
 
@@ -457,6 +457,14 @@ and schewan sauce.</i>
 <i>Deep Fried Whole Wheat Puffed Bread  </i>
 </div>
 <!-- end bread -->
+
+<!-- download pdf  -->
+<div id="tabs-13">
+	<a href="https://drive.google.com/file/d/0B5hzdVaK6XX1Y0RZOTM5UVN5cGc/view" target="_new">
+	<button class="btn btn-warning">Downlaod</button></a>
+</div>
+
+<!-- downlaod pdf -->
 
 		
 	</div><!-- end ui tab -->
