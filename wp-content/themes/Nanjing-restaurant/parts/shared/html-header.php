@@ -43,7 +43,7 @@
 	    <!-- end jquery ui  -->
 	    <script src="https://use.fontawesome.com/84fbfe7df4.js"></script>
 	     <!-- Compiled and minified CSS -->
-  		
+  		<!-- <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>/css/jquery.flexslider.css"> -->
 
 
 	</head>

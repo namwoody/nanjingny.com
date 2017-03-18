@@ -29,6 +29,8 @@
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
 	<script src="<?php bloginfo('template_directory'); ?>/js/parallax.min.js"></script>
+
+	<!-- <script src="<?php bloginfo('template_directory'); ?>/js/jquery-flexslider.js" ></script> -->
 	<script src="<?php bloginfo('template_directory'); ?>"></script>
 		<script type="text/javascript">
 	$('.parallax-window').parallax({imageSrc: '<?php bloginfo('template_directory'); ?>/images/bloodymary.jpg'});
