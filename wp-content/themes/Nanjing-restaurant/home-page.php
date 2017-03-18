@@ -9,8 +9,10 @@
 
 <?php Starkers_Utilities::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>
 
-<div class="parallax-window" data-parallax="scroll" data-image-src="<?php bloginfo('template_directory'); ?>/images/drumofheaven.png">
-
+<div id="slider">
+<?php 
+    echo do_shortcode("[metaslider id=42]"); 
+?>
 
 </div>
 
