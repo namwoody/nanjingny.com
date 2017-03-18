@@ -8,7 +8,9 @@
 		<div class="row">
 		   <div class="col-md-4">
 		   			<a href="<?php echo home_url(); ?>">
-				<img src="<?php bloginfo('template_directory'); ?>/images/logo.png" alt="nanjing logo">
+				<?php 
+   					 echo do_shortcode("[metaslider id=42]"); 
+					?>
 			
 			</a>
 			</div>

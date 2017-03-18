@@ -42,6 +42,9 @@
 
 	    <!-- end jquery ui  -->
 	    <script src="https://use.fontawesome.com/84fbfe7df4.js"></script>
+	     <!-- Compiled and minified CSS -->
+  		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+
 
 	</head>
 	<body <?php body_class(); ?> id="body">
